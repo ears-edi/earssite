@@ -1,2 +1,3 @@
 ears-edi.github.io
 *.pyc
+__pycache__

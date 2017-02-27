@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'edi-ears'
+AUTHOR = 'ears-edi'
 SITENAME = 'Edinburgh University EaRS'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'ears-edi.github.io'
 
 THEME = 'pelican-blue'
 
@@ -33,7 +34,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('Facebook', 'https://fb.me/earsedi'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
