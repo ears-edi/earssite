@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-THEME = '../pelican-blue'
+THEME = 'pelican-blue'
 
 TIMEZONE = 'Europe/London'
 
