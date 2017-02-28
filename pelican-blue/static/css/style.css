@@ -265,3 +265,11 @@ aside > h2 {
 img {
   max-width: 100%;
 }
+
+
+.icon {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
