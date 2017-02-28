@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'ears-edi'
 SITENAME = 'Edinburgh University EaRS'
-SITEURL = 'ears-edi.github.io'
+SITEURL = ''
 
 PATH = 'content'
 OUTPUT_PATH = 'ears-edi.github.io'
