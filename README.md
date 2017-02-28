@@ -44,9 +44,36 @@ git clone https://github.com/ears-edi/ears-edi.github.io
 
 This way you can just push any changes from that repo and they will appear on the actual site.
 
+Project Structure
+-----------------
+
+The important files in the project are layed out as so:
+
+```
+Key:
+ - file
+ \ subdirectory
+
+earssite
+ \ content                # static pages and events go in here
+   - events               # we are using the posts feature to implement events
+   \ pages
+     - static pages       # stuff like about, contact etc
+ \ pelican-blue
+   \ static               # all non template files (styles, scripts, images)
+     \ css
+     \ images
+   \ templates            # HTML templates
+     - Jinja templates
+ - pelicanconf.py         # pelican settings
+ - event_example.md       # an example event posting that can be used as a template
+```
+
 Tips
 ----
 
 While developing, try running `pelican -r` in a separate terminal. This will rebuild the site every time you make a change.
 
-Pelican comes by default with a development server. You can start it using `develop-server.sh` but this will put the server in the background of your session and any time a request comes in it will spam your terminal which can mess with whatever you are doing currently. It can be better to run `python -m pelican.server` in the output directory in a separate terminal. This will show you all requests coming in and will serve whatever is in the directory, so doesn't need to be restarted on code changes.
+Pelican comes by default with a development server. You can start it using `develop-server.sh` but this will put the server in the background of your session and any time a request comes in it will spam your terminal which can mess with whatever you are doing currently. It can be better to run `python -m pelican.server` in the output directory in a separate terminal. This will show you all requests coming in and will serve whatever is in the directory, so doesn't need to be restarted on code changes. You can then see the site at `localhost:8000`.
+
+The [Pelican docs](http://docs.getpelican.com/en/stable/) are really very good and cover most if not everything that you would want to do with Pelican.
