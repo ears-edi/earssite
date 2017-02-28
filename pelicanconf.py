@@ -4,18 +4,22 @@ from __future__ import unicode_literals
 
 AUTHOR = 'ears-edi'
 SITENAME = 'Edinburgh University EaRS'
-SITEURL = ''
+SITEURL = 'ears-edi.github.io'
 
 PATH = 'content'
 OUTPUT_PATH = 'ears-edi.github.io'
 
+# the below is a path as well as the name of the theme
 THEME = 'pelican-blue'
 
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
+# Theme specific options
+# Enables sidebar to have listing of pages
 DISPLAY_PAGES_ON_MENU = True
+# Adds summary to events on main page
 DISPLAY_SUMMARY = True
 
 # Feed generation is usually not desired when developing
