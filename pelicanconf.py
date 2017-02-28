@@ -16,6 +16,7 @@ TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
 
 DISPLAY_PAGES_ON_MENU = True
+DISPLAY_SUMMARY = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -26,8 +27,8 @@ AUTHOR_FEED_RSS = None
 
 PAGE_URL = "{slug}.html"
 PAGE_SAVE_AS = "{slug}.html"
-ARTICLE_URL = "blog/{slug}"
-ARTICLE_SAVE_AS = "blog/{slug}.html"
+ARTICLE_URL = "events/{slug}"
+ARTICLE_SAVE_AS = "events/{slug}.html"
 
 # Social widget
 SOCIAL = (('Facebook', 'https://fb.me/earsedi'),

@@ -13,19 +13,22 @@
 {% endblock head %}
 {% block content_title %}{% endblock %}
 {% block content %}
-<h1 class="title">Hi, I'm {{ AUTHOR }}</h1>
+
+<h1 id="main-title">EaRS Home</h1>
+
+<img src="http://www.canoefoundation.org.uk/cf/assets/Image/Yellow%20Duck.jpg" alt="our logo" />
+
+<p>EaRS is duhduhduhd some more things oh yes formatting tests are fun</p>
 
 {% if articles %}
 <ol>
-	<h2 class="latest">Latest Posts</h2>
+	<h2 class="latest">Events</h2>
 	{% for article in (articles_page.object_list if articles_page else articles) %}
 	<li class="post_list"><p class="post_entry">
 		<h2 class="post_title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
                 {% if DISPLAY_SUMMARY and article.summary|length > 0 %}
                         <p>{{ article.summary }}</p>
                 {% endif %}
-		<a href="{{ SITEURL }}/{{ article.author.url }}">@{{ article.author }}</a>
-		<span> in </span>
 		<span class="post_category"><a href="{{ SITEURL }}/{{ article.category.url }}" rel="bookmark" title="Permalink to {{ article.category|striptags }}">[ {{ article.category }} ]</a></span>
 		<span class="post_date">{{ article.locale_date }}</span>
 	</li>
