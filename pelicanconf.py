@@ -15,6 +15,8 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
+DISPLAY_PAGES_ON_MENU = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -27,15 +29,9 @@ PAGE_SAVE_AS = "{slug}.html"
 ARTICLE_URL = "blog/{slug}"
 ARTICLE_SAVE_AS = "blog/{slug}.html"
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
 # Social widget
 SOCIAL = (('Facebook', 'https://fb.me/earsedi'),
-          ('Another social link', '#'),)
+          ('GitHub', 'https://github.com/ears-edi'))
 
 DEFAULT_PAGINATION = 10
 

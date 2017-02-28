@@ -40,7 +40,7 @@
   <!-- Sidebar -->
   <aside>
     <!--<center><a href="{{ SITEURL }}"><img id="avatar" src="{{ AVATAR }}"></a></center>-->
-    <h1>{{ SITENAME }}</h1>
+    <h1 class="side-title"><a href="/">{{ SITENAME }}</a></h1>
     {% if SIDEBAR_DIGEST %}
       <p>{{ SIDEBAR_DIGEST }}</p>
     {% endif %}
@@ -72,7 +72,7 @@
           <li><a class="nav__link" href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
          
-        {% if DISPLAY_PAGES_ON_MENU and PAGES %}{% for p in pages %}
+        {% if DISPLAY_PAGES_ON_MENU and pages %}{% for p in pages %}
           <li><a class="nav__link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}{% endif %}
         

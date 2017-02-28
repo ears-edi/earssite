@@ -1,3 +1,5 @@
 ears-edi.github.io
 *.pyc
 __pycache__
+*.swp
+*.swo
