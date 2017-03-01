@@ -15,9 +15,11 @@ h1, h2 {
   margin-bottom: 10px;
 }
 
-.side-title {
+.side-title{
   text-transform: none;
   font-size: 1.5em;
+  color: black;
+  font-weight: normal; 
 }
 
 #main-title {
@@ -25,6 +27,7 @@ h1, h2 {
   display: block;
   margin: 0 auto;
   line-height: 2.5em;
+  font-weight: normal; 
 }
 
 #robot-image {
@@ -279,4 +282,12 @@ img {
   margin-left: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
+  float: right;
+}
+
+.photo {
+  width: 200px;
+  border-radius: 30px;
+  float: left;
+  margin: 10px 30px 10px 10px;
 }

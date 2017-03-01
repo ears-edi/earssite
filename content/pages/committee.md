@@ -7,29 +7,39 @@ EaRS committee members
 <br>
 Agnieszka Wasikowska - **President**
 ------------------------------------
-![Agnes](/images/agnes.jpg "Agnes")
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id dolor ac urna condimentum scelerisque ac in velit. Suspendisse sed erat tempor, efficitur ipsum semper, cursus purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dapibus justo eu porta venenatis. Aliquam cursus lacinia faucibus. Aliquam tempor egestas neque a ultricies. Ut interdum tempor ex, in lacinia est mollis at. Aliquam venenatis viverra eros id gravida. Pellentesque id facilisis lectus. Quisque aliquam quis neque vitae semper. Sed sit amet pellentesque dui. Mauris vel scelerisque lectus. Sed gravida at dolor id mollis.
+<img class="photo" src="/images/agnes-c.jpg" alt="Agnes"></img>
+I will get easily excited about anything technology related.  Simple or complicated, boring or interesting; I love every single bit, however it's act of builidng things myself that holds a special place in my heart.
+<br><br>
+When I started university all I wanted to do is build cool things; hardware, software: it didnt really matter. Despite this, due to lack of confidence in my abilities and self-esteem, finding the courage to touch embedded took me a while.
+<br><br>
+This society is my way of helping others have fun by making their begginings with hardware as interesting and as pleasant as possible. I want EaRS to become a community where everyone regardless of their skills can learn and share ideas.
+<br><br>
+If you've got any questions drop me a message either on my [personal account](mailto:aga@mcha.eu) or on the [society's](mailto:ears.edinburgh@gmail.com). Don't hesitate to ask about anything, I probably know less about Embedded and Robotics than you. Having said that, is there a better way to learn than starting a hardware oriented society? :)
 
-Nulla at ipsum ornare, auctor diam non, vestibulum mauris. Vestibulum accumsan nisl sed congue vulputate. Curabitur fringilla pretium nunc, varius efficitur massa vulputate ac. Pellentesque maximus leo nisl, id sagittis ex luctus non. Cras dictum, eros et tincidunt consequat, risus metus elementum sem, at suscipit sapien eros vitae sem. Praesent maximus aliquet ipsum. Nulla nunc quam, molestie vel arcu vel, rhoncus dictum justo. Mauris finibus cursus ipsum, vel ultrices sem auctor ac.
+<a href="https://linkedin.com/aga11313"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/aga11313"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="http://cameronmacleod.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
-<a href="https://linkedin.com"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
-<a href="https://github.com"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="https://facebook.com"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
-
+<br>
 <br>
 Cameron MacLeod - **Secretary**
 -------------------------------
-![Cameron](/images/cameron.jpg "Cameron")
-I'm often guilty of getting more excited about the technology behind things than the applications themselves, hence my interest lies primarily in the embedded side of the society. I took last year out to work for a company that does a lot of embedded development and it was there that I first became interested in the area. I'm often also found tinkering about with DSP and wireless protocols. If you have any issues, I'd love to help, so drop me a line at the [society email](mailto:ears.edinburgh@gmail.com) or my [personal email](mailto:cmacleod170@googlemail.com).
+<img class="photo" src="/images/cameron-c.jpg" alt="Cameron"></img>
+I'm often guilty of getting more excited about the technology behind things than the applications themselves, hence my interest lies primarily in the embedded side of the society. 
+<br><br>
+I took last year out to work for a company that does a lot of embedded development and it was there that I first became interested in the area. 
+<br><br>
+I'm often also found tinkering about with DSP and wireless protocols. If you have any issues, I'd love to help, so drop me a line at the [society email](mailto:ears.edinburgh@gmail.com) or my [personal email](mailto:cmacleod170@googlemail.com).
 
 <a href="https://uk.linkedin.com/in/cameronjohnmacleod"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/notexactlyawe"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="http://cameronmacleod.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
 <br>
+<br>
 Mayank Gupta - **Treasurer**
 -------------------------------
-![Mayank](/images/mayank.jpg "Mayank")
+<img class="photo" src="/images/mayank-c.jpg" alt="Mayank"></img>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id dolor ac urna condimentum scelerisque ac in velit. Suspendisse sed erat tempor, efficitur ipsum semper, cursus purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dapibus justo eu porta venenatis. Aliquam cursus lacinia faucibus. Aliquam tempor egestas neque a ultricies. Ut interdum tempor ex, in lacinia est mollis at. Aliquam venenatis viverra eros id gravida. Pellentesque id facilisis lectus. Quisque aliquam quis neque vitae semper. Sed sit amet pellentesque dui. Mauris vel scelerisque lectus. Sed gravida at dolor id mollis.
 
