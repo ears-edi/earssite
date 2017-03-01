@@ -4,7 +4,7 @@ Slug: contact
 Get in touch
 ============
 
-If you want to get in touch with us, you can always reach us at our email: [ears.edinburgh@gmail.com](mailto:ears.edinburgh@gmail.com). To save you some time, we have the answers to some common questions below.
+If you want to get in touch with us, you can always reach us at our email: [ears.edinburgh@gmail.com](mailto:ears.edinburgh@gmail.com). Do you have Facebook? You can also message us through our [page](https://fb.me/earsedi). To save you some time, we have the answers to some common questions below.
 
 Our [FAQ](/faq) contains the answers to many common questions. If you are wondering when the next event is, then the list of upcoming ones is on the [Main page](/).
 

@@ -16,6 +16,8 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
+GOOGLE_ANALYTICS = 'UA-92880122-1'
+
 # Theme specific options
 # Enables sidebar to have listing of pages
 DISPLAY_PAGES_ON_MENU = True
