@@ -40,7 +40,13 @@ I'm often also found tinkering about with DSP and wireless protocols. If you hav
 Mayank Gupta - **Treasurer**
 -------------------------------
 <img class="photo" src="/images/mayank-c.jpg" alt="Mayank"></img>
+I like to think that no problem is too big or too hard. 
+<br><br>
+I am particularly interested in automation and AI, but I tend to dip my toes in anything that takes my interest. The effect these technologies have on the world has always excited me; and use of modern development hardware for prototyping is easier than ever!
+<br><br>
+If you want to know more about anything I have done before or have any questions give me a buzz! 
 
 <a href="https://linkedin.com"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://facebook.com"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<br><br><br>
