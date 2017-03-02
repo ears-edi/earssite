@@ -18,7 +18,7 @@ If you've got any questions drop me a message either on my [personal account](ma
 
 <a href="https://linkedin.com/aga11313"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/aga11313"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="http://facebook.com/agnieszka.wasikowska.com"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<a href="http://facebook.com/agnieszka.wasikowska"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
 
 <br>
 <br>
