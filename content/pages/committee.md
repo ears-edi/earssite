@@ -46,7 +46,10 @@ I am particularly interested in automation and AI, but I tend to dip my toes in 
 <br><br>
 If you want to know more about anything I have done before or have any questions give me a buzz! 
 
-<a href="https://linkedin.com"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
-<a href="https://github.com"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="https://facebook.com"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<a href="https://linkedin.com/in/mayankgupta0/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/officialgupta"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://facebook.com/officialgupta"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<a href="https://twitter.com/officialgupta"><img class="icon" src="/theme/images/icons/twitter-s.png" alt="Twitter"></img></a>
+<!-- <a href="https://guptamayank.co.uk"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a> -->
+
 <br><br><br>
