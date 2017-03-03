@@ -3,7 +3,7 @@ Slug: useful
 
 Some useful links/resources we've found. This is a contributable list, why not [submit a pull request](https://github.com/ears-edi/earssite)?
 
-[Edinburgh Centre for Robotics](http://www.edinburgh-robotics.org/)
+[Edinburgh Centre for Robotics](http://www.edinburgh-robotics.org/) - A joint initiative between the University of Edinburgh and Heriot Watt. Offers PhD training programme.
 
 [Arduino](https://www.arduino.cc/) - The site for Arduino, a series of boards that are very accessible to people unfamiliar with embedded programming.
 
@@ -12,3 +12,5 @@ Some useful links/resources we've found. This is a contributable list, why not [
 [Embedded.com](http://embedded.com) - A site with a lot of articles about various topics within embedded development.
 
 [Getting started with C/C++ on the Micro:bit](http://www.i-programmer.info/programming/hardware/9651-getting-started-with-cc-on-the-microbit.html) - A good resource with information on writing low level code on the Micro:bit.
+
+[BeagleBone](http://beagleboard.org/bone) - A Raspberry Pi like board.
