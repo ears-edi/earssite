@@ -14,3 +14,5 @@ Some useful links/resources we've found. This is a contributable list, why not [
 [Getting started with C/C++ on the Micro:bit](http://www.i-programmer.info/programming/hardware/9651-getting-started-with-cc-on-the-microbit.html) - A good resource with information on writing low level code on the Micro:bit.
 
 [BeagleBone](http://beagleboard.org/bone) - A Raspberry Pi like board.
+
+[hobbyprojects.com](http://www.hobbyprojects.com) - A site with lots of electronics resources and projects.
