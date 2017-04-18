@@ -1,5 +1,5 @@
-Title: Useful Resources
-Slug: useful
+Title: External Resources
+Slug: externalresources
 
 Some useful links/resources we've found. This is a contributable list, why not [submit a pull request](https://github.com/ears-edi/earssite)?
 
