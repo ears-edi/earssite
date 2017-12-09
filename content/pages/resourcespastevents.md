@@ -6,6 +6,14 @@ Past Events
 
 <br>
 
+## Build your own Robotic Arm! ##
+
+** 15 September 2017 ** - [Event Page](/events/robotic-arm)
+
+Our main Welcome Week event for 2017 saw 40 people build their own cardboard hydraulic arm. We ran two sessions in uCreate Studio that took attendees from a piece of cardboard to a fully functioning arm. It was a nice introduction to the semester and a good omen for things to come!
+
+<br>
+
 ## Electronics Workshop - Part 1 ##
 
 ** 17 April 2017 ** - [Event Page](/events/electronics-workshop-part-1)

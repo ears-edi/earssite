@@ -9,7 +9,7 @@ Starting off with building your first circuit, we will then take you through som
 
 Difficulty level 1/10: No prior electronics knowledge required. Basic understanding of concepts such as voltage, current, resistance will be helpful but not necessary. Everything will be explained from the basics. This event is aimed firmly at beginners, but if you are more experienced and still want to get involved, [let us know](/contact), we're always looking for extra mentors and expertise.
 
-Get you tickets [here](https://www.eventbrite.co.uk/e/ears-electronics-workshop-part-1-tickets-33374234233)! 
+Get your tickets [here](https://www.eventbrite.co.uk/e/ears-electronics-workshop-part-1-tickets-33374234233)! 
 
 uCreate Studio is located on the 1st floor of the library (Room number 1.12). Coming through the main entrance of the library, head up the large stairs to your right in the foyer. At the top of the stairs, turn left and head through the door at the end into a study space. Straight across that on the right is another door. uCreate Studio is the first door on your left.
 
