@@ -6,6 +6,16 @@ Past Events
 
 <br>
 
+## Electronics Workshop ##
+
+** 25 September 2017 ** - [Event Page](/events/elec-workshop-s1-2017)
+
+A re-run of our electronics workshop from last semester. This was our first regular event of the new semester and sold out really quickly! The slides are below.
+
+[Annotated slides](/pdf/elecworkshoppart1annotated.pdf)
+
+<br>
+
 ## Build your own Robotic Arm! ##
 
 ** 15 September 2017 ** - [Event Page](/events/robotic-arm)
