@@ -6,6 +6,18 @@ Past Events
 
 <br>
 
+## Build your own Snake Game with the BBC micro:bit! ##
+
+** 9 October 2017 ** - [Event Page](/events/microbit-snake)
+
+Our first programming workshop went well, attracting a full room of attendees and much delight at seeing something moving that they created. This was a fun workshop to run as the thing people were building was both visual and tactile.
+
+[Slides](https://ears-edi.github.io/pdf/microbitsnake.pdf)
+
+[GitHub Repo](https://github.com/ears-edi/microbit-snake)
+
+<br>
+
 ## Electronics Workshop ##
 
 ** 25 September 2017 ** - [Event Page](/events/elec-workshop-s1-2017)
