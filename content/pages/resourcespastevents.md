@@ -6,13 +6,25 @@ Past Events
 
 <br>
 
+## Arduino Robotic Car Workshop ##
+
+** 30 October 2017 ** - [Event Page](/events/arduino-car)
+
+The robotics side of our society came alive in this workshop where we led participants through building their own programmable car. Participants built their own motor circuits and programmed them using Arduino to move a car around. This workshop was relatively basic, but it is easy to see how you could add some sensors to the car and make your robot more autonomous quite easily.
+
+[Slides](https://docs.google.com/presentation/d/1SOZN7ETuGma1CHm3MR2lBp-gJ2EuyXFvpt9VyggjgLM/)
+
+[GitHub Repo](https://github.com/ears-edi/arduino-car)
+
+<br>
+
 ## Build your own Snake Game with the BBC micro:bit! ##
 
 ** 9 October 2017 ** - [Event Page](/events/microbit-snake)
 
 Our first programming workshop went well, attracting a full room of attendees and much delight at seeing something moving that they created. This was a fun workshop to run as the thing people were building was both visual and tactile.
 
-[Slides](https://ears-edi.github.io/pdf/microbitsnake.pdf)
+[Slides](/pdf/microbitsnake.pdf)
 
 [GitHub Repo](https://github.com/ears-edi/microbit-snake)
 
