@@ -1,7 +1,7 @@
 Title: IoT Challenge 2018
 Date: 2018-02-21 09:00
 Category: Hackathons
-Summary: EaRS is proud to run the IoT challenge this year in collaboration with the University of Edinburgh ISG and Informatics.
+Summary: EaRS is proud to run the IoT challenge this year in collaboration with the University of Edinburgh ISG and School of Informatics.
 Slug: iot-challenge-18
 
 EaRS is pleased to announce that we will be running the IoT Challenge this year!
