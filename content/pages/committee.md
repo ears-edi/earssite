@@ -68,4 +68,21 @@ I'm here to help you learn and to aid you in your first steps to creating someth
 <a href="https://twitter.com/yujotseng"><img class="icon" src="/theme/images/icons/twitter-s.png" alt="Twitter"></img></a>
 <a href="http://yujotseng.com/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
-<br><br><br>
+<br>
+<br>
+Ami Bakhai - **Talks Coordinator**
+-------------------------------
+<img class="photo" src="/images/ami-c.jpg" alt="Ami"></img>
+These people above me are scary... they know so much about technology :O But I have a great interest in technology and they have made me a place among them. The motivation I have towards learning and creating something has given me the chance to build my knowledge of using different technologies. 
+<br><br>
+I was a complete beginner, I had never used my command line just a few years ago but now I have it open 24/7 on my laptop. I have learnt a lot especially from EaRS. But just generally from life, whether it is communication skills, marketing, hardware or software; I will not hesitate being curious about it and taking time to learn about it. 
+<br><br>
+I am here for you to talk to about technology or basically anything you fancy, just send me a message!
+
+<a href="https://www.linkedin.com/in/ami-bakhai-274521150/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/abakhai"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://www.facebook.com/ami.bakhai.3"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+
+
+<br>
+<br>
