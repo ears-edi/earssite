@@ -72,7 +72,7 @@ I'm here to help you learn and to aid you in your first steps to creating someth
 <br>
 Ami Bakhai - **Talks Coordinator**
 -------------------------------
-<img class="photo" src="/images/ami-c.jpg" alt="Ami"></img>
+<img class="photo" src="/images/ami-c.jpeg" alt="Ami"></img>
 These people above me are scary... they know so much about technology :O But I have a great interest in technology and they have made me a place among them. The motivation I have towards learning and creating something has given me the chance to build my knowledge of using different technologies. 
 <br><br>
 I was a complete beginner, I had never used my command line just a few years ago but now I have it open 24/7 on my laptop. I have learnt a lot especially from EaRS. But just generally from life, whether it is communication skills, marketing, hardware or software; I will not hesitate being curious about it and taking time to learn about it. 
