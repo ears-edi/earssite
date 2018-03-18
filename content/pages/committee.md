@@ -8,11 +8,11 @@ EaRS committee members
 Agnieszka Wasikowska - **President**
 ------------------------------------
 <img class="photo" src="/images/agnes-c.jpg" alt="Agnes"></img>
-I will get easily excited about anything technology related.  Simple or complicated, boring or interesting; I love every single bit, however it's act of builidng things myself that holds a special place in my heart.
+I will get easily excited about anything technology related.  Simple or complicated, boring or interesting; I love every single bit, however it's act of building things myself that holds a special place in my heart.
 <br><br>
-When I started university all I wanted to do is build cool things; hardware, software: it didnt really matter. Despite this, due to lack of confidence in my abilities and self-esteem, finding the courage to touch embedded took me a while.
+When I started university all I wanted to do is build cool things; hardware, software: it didn't really matter. Despite this, due to lack of confidence in my abilities and self-esteem, finding the courage to touch embedded took me a while.
 <br><br>
-This society is my way of helping others have fun by making their begginings with hardware as interesting and as pleasant as possible. I want EaRS to become a community where everyone regardless of their skills can learn and share ideas.
+This society is my way of helping others have fun by making their beginnings with hardware as interesting and as pleasant as possible. I want EaRS to become a community where everyone regardless of their skills can learn and share ideas.
 <br><br>
 If you've got any questions drop me a message either on my [personal account](mailto:aga@mcha.eu) or on the [society's](mailto:ears.edinburgh@gmail.com). Don't hesitate to ask about anything, I probably know less about Embedded and Robotics than you. Having said that, is there a better way to learn than starting a hardware oriented society? :)
 
