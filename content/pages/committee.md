@@ -33,7 +33,7 @@ I'm often also found tinkering about with DSP and wireless protocols. If you hav
 
 <a href="https://uk.linkedin.com/in/cameronjohnmacleod"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/notexactlyawe"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="http://cameronmacleod.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
+<a href="https://www.cameronmacleod.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
 <br>
 <br>
