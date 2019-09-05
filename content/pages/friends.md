@@ -17,6 +17,8 @@ If you want to chat to me about anything robotics or games related you can try [
 If you'd like to look at what I've been working on you can try some of these:
 
 <a href="https://www.facebook.com/davidmichael.weis"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
-<a href="https://www.linkedin.com/in/david-michael-weis/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://www.linkedin.com/in/david-weis//"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/dmweis"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://DavidMakesRobots.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
+
+<br><br>
