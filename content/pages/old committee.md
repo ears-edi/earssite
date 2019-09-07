@@ -1,26 +1,28 @@
-Title: Committee
-Slug: committee
+Title: Old committee
+Slug: Old committee
 
-EaRS committee members
+EaRS Old committee members
 ======================
 
 <br>
-Cailtlin McDougall - **President**
+Caitlin McDougall - **President**
 ------------------------------------
-<img class="photo" src="/images/caitlin.jpeg" alt="Caitlin"></img>
-I love learning about how things work at their core. Be it the unseen software controlling it or the moving parts and how they fit together, I am always fascinated to see how it's done. That's why embedded and robotics appealed to me. I get to see for myself how to give functionality to objects and make them respond to the real world.
+<img class="photo" src="/images/agnes-c.jpg" alt="Agnes"></img>
+I will get easily excited about anything technology related.  Simple or complicated, boring or interesting; I love every single bit, however it's act of building things myself that holds a special place in my heart.
+<br><br>
+When I started university all I wanted to do is build cool things; hardware, software: it didn't really matter. Despite this, due to lack of confidence in my abilities and self-esteem, finding the courage to touch embedded took me a while.
+<br><br>
+This society is my way of helping others have fun by making their beginnings with hardware as interesting and as pleasant as possible. I want EaRS to become a community where everyone regardless of their skills can learn and share ideas.
+<br><br>
+If you've got any questions drop me a message either on my [personal account](mailto:aga@mcha.eu) or on the [society's](mailto:ears.edinburgh@gmail.com). Don't hesitate to ask about anything, I probably know less about Embedded and Robotics than you. Having said that, is there a better way to learn than starting a hardware oriented society? :)
 
-I came to Edinburgh not knowing an awful lot about technology and feeling like a bit of an outcast since everyone else on my course seemed to know so much. Then I found EaRS and they gave me the chance to learn and ask questions without feeling judged. Having this opportunity helped me become much more confident in myself and has given me a love of tinkering with random pieces of tech without fear of breaking it.
-
-I feel extremely fortunate that I am now in the position to provide this friendly, open space for others who find themselves in my shoes and help them discover the same passion for embedded software and robotics that I have.
-
-<a href="https://linkedin.com/caitlin-mcdougall"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
-<a href="https://github.com/caitlin-mcdougall"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://linkedin.com/aga11313"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/aga11313"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="http://facebook.com/agnieszka.wasikowska"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
 
 <br>
 <br>
-Annabel Jakob  - **Secretary**
+Cameron MacLeod - **Secretary**
 -------------------------------
 <img class="photo" src="/images/cameron-c.jpg" alt="Cameron"></img>
 I'm often guilty of getting more excited about the technology behind things than the applications themselves, hence my interest lies primarily in the embedded side of the society.
@@ -35,9 +37,9 @@ I'm often also found tinkering about with DSP and wireless protocols. If you hav
 
 <br>
 <br>
-Annabel Jakob  - **Treasurer**
+Mayank Gupta - **Treasurer**
 -------------------------------
-<img class="photo" src="/images/bella.jpeg" alt="Bella"></img>
+<img class="photo" src="/images/mayank-c.jpg" alt="Mayank"></img>
 I like to think that no problem is too big or too hard.
 <br><br>
 I am particularly interested in automation and AI, but I tend to dip my toes in anything that takes my interest. The effect these technologies have on the world has always excited me; and use of modern development hardware for prototyping is easier than ever!
@@ -52,7 +54,7 @@ If you want to know more about anything I have done before or have any questions
 
 <br>
 <br>
-Roman Akash - **Sponsor manager**
+Yu-Jo Tseng - **Head Mentor**
 -------------------------------
 <img class="photo" src="/images/yujo-c.jpg" alt="Yu-Jo"></img>
 The infinite possibilities with technology are what draws me to this field. You can build almost anything you fancy!
@@ -61,25 +63,25 @@ It all started back in secondary school when I tried making an Android live wall
 <br><br>
 I'm here to help you learn and to aid you in your first steps to creating something amazing. But I'm also here to play, so if you're up for some games, let me know!
 
-<a href="https://www.linkedin.com/in/roman-akash-b32a29170/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
-<a href="https://github.com/"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="http://romanakash.com/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
+<a href="https://www.linkedin.com/in/yujotseng/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/uro98"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://twitter.com/yujotseng"><img class="icon" src="/theme/images/icons/twitter-s.png" alt="Twitter"></img></a>
+<a href="http://yujotseng.com/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
 <br>
 <br>
-Gagan Devagiri - **Workshop Coordinator**
+Ami Bakhai - **Talks Coordinator**
 -------------------------------
-<img class="photo" src="/images/gagan.png" alt="Gagan"></img>
-
-
+<img class="photo" src="/images/ami-c.jpeg" alt="Ami"></img>
+These people above me are scary... they know so much about technology :O But I have a great interest in technology and they have made me a place among them. The motivation I have towards learning and creating something has given me the chance to build my knowledge of using different technologies. 
 <br><br>
 I was a complete beginner, I had never used my command line just a few years ago but now I have it open 24/7 on my laptop. I have learnt a lot especially from EaRS. But just generally from life, whether it is communication skills, marketing, hardware or software; I will not hesitate being curious about it and taking time to learn about it. 
 <br><br>
 I am here for you to talk to about technology or basically anything you fancy, just send me a message!
 
-<a href="https://www.linkedin.com/in/Gagan-Devagiri/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
-<a href="https://github.com/GaganSD"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="https://www.facebook.com/gagan-devagiri"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<a href="https://www.linkedin.com/in/ami-bakhai-274521150/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/abakhai"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://www.facebook.com/ami.bakhai.3"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
 
 
 <br>
