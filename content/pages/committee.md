@@ -20,9 +20,9 @@ I feel extremely fortunate that I am now in the position to provide this friendl
 
 <br>
 <br>
-Annabel Jakob  - **Secretary**
+Wassim Jabrane - **Secretary**
 -------------------------------
-<img class="photo" src="/images/cameron-c.jpg" alt="Cameron"></img>
+<img class="photo" src="/images/wassim.jpeg" alt="Wassim"></img>
 I'm often guilty of getting more excited about the technology behind things than the applications themselves, hence my interest lies primarily in the embedded side of the society.
 <br><br>
 I took last year out to work for a company that does a lot of embedded development and it was there that I first became interested in the area.
@@ -54,7 +54,7 @@ If you want to know more about anything I have done before or have any questions
 <br>
 Roman Akash - **Sponsor manager**
 -------------------------------
-<img class="photo" src="/images/yujo-c.jpg" alt="Yu-Jo"></img>
+<img class="photo" src="/images/roman.jpeg" alt="Roman"></img>
 The infinite possibilities with technology are what draws me to this field. You can build almost anything you fancy!
 <br><br>
 It all started back in secondary school when I tried making an Android live wallpaper. I realized then how much fun it was not only to learn something new but also to bring what you have in your head to life.
@@ -70,17 +70,53 @@ I'm here to help you learn and to aid you in your first steps to creating someth
 Gagan Devagiri - **Workshop Coordinator**
 -------------------------------
 <img class="photo" src="/images/gagan.png" alt="Gagan"></img>
+When I first joined the university I was overwhelmed with everyone's accomplishments and how much everyone around me knows and this has motivated me to learn more, everyday! Through EaRs, I'm learning about Embedded and robotics development and have learned to built cool stuff by attending the workshops myself and mentoring few of them.
 
-
+When I'm not with EaRs, you can find me in Appleton Tower complaining about my coursework or playing Minecraft or if it is the weekends, I'll probably be at a hackathon attempting to build something. I'm often guilty of missing my Monday lectures because I couldn't wake up the next day after a long hackathon. You can message me on <a href="https://www.facebook.com/notgagan">facebook</a> or <a href="https://instagram.com/gag_dev">Instagram</a> or email me at <a href ="mailto:gagandevagiri@gmail.com">gagandevagiri@gmail.com</a>
 <br><br>
-I was a complete beginner, I had never used my command line just a few years ago but now I have it open 24/7 on my laptop. I have learnt a lot especially from EaRS. But just generally from life, whether it is communication skills, marketing, hardware or software; I will not hesitate being curious about it and taking time to learn about it. 
-<br><br>
-I am here for you to talk to about technology or basically anything you fancy, just send me a message!
 
 <a href="https://www.linkedin.com/in/Gagan-Devagiri/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/GaganSD"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://www.facebook.com/gagan-devagiri"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<a href="http://gagandevagiri.me/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
 
 <br>
 <br>
+Ivy Kalegi - **Project Lead**
+-------------------------------
+<img class="photo" src="/images/ivy.jpg" alt="Ivy"></img>
+Description goes here
+
+ 
+<br>
+<br>
+ 
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+ 
+
+
+
+
+<a href="https://www.linkedin.com/in/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://www.facebook.com/ivy.kalegi"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+
+
+<br>
+<br>
+Michał Dauenhauer - **Content Creator**
+-------------------------------
+<img class="photo" src="/images/michal.jpg" alt="Michal"></img>
+Description 
+
+
+
+
+<a href="https://www.linkedin.com/in/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
+<a href="https://www.facebook.com/profile.php?id=100000624041963"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>

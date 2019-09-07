@@ -5,7 +5,7 @@ EaRS Old committee members
 ======================
 
 <br>
-Caitlin McDougall - **President**
+Agnes Wasikowska - **President**
 ------------------------------------
 <img class="photo" src="/images/agnes-c.jpg" alt="Agnes"></img>
 I will get easily excited about anything technology related.  Simple or complicated, boring or interesting; I love every single bit, however it's act of building things myself that holds a special place in my heart.
