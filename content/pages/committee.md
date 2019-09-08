@@ -16,19 +16,26 @@ I feel extremely fortunate that I am now in the position to provide this friendl
 
 <a href="https://linkedin.com/caitlin-mcdougall"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/caitlin-mcdougall"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="http://facebook.com/agnieszka.wasikowska"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
+<a href="https://www.facebook.com/caitlin.mcdougall.52"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
 
 <br>
 <br>
 Wassim Jabrane - **Secretary**
 -------------------------------
 <img class="photo" src="/images/wassim.jpeg" alt="Wassim"></img>
-I'm often guilty of getting more excited about the technology behind things than the applications themselves, hence my interest lies primarily in the embedded side of the society.
-<br><br>
-I took last year out to work for a company that does a lot of embedded development and it was there that I first became interested in the area.
-<br><br>
-I'm often also found tinkering about with DSP and wireless protocols. If you have any issues, I'd love to help, so drop me a line at the [society email](mailto:ears.edinburgh@gmail.com) or my [personal email](mailto:cmacleod170@googlemail.com).
+Description 
 
+
+goes 
+<br>
+
+here. 
+
+.
+<br>
+.
+<br>
+.
 <a href="https://uk.linkedin.com/in/cameronjohnmacleod"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/notexactlyawe"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://www.cameronmacleod.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
@@ -38,11 +45,19 @@ I'm often also found tinkering about with DSP and wireless protocols. If you hav
 Annabel Jakob  - **Treasurer**
 -------------------------------
 <img class="photo" src="/images/bella.jpeg" alt="Bella"></img>
-I like to think that no problem is too big or too hard.
-<br><br>
-I am particularly interested in automation and AI, but I tend to dip my toes in anything that takes my interest. The effect these technologies have on the world has always excited me; and use of modern development hardware for prototyping is easier than ever!
-<br><br>
-If you want to know more about anything I have done before or have any questions give me a buzz!
+Description 
+
+
+goes 
+<br>
+
+here. 
+
+.
+<br>
+.
+<br>
+.
 
 <a href="https://linkedin.com/in/mayankgupta0/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/officialgupta"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
@@ -55,15 +70,22 @@ If you want to know more about anything I have done before or have any questions
 Roman Akash - **Sponsor manager**
 -------------------------------
 <img class="photo" src="/images/roman.jpeg" alt="Roman"></img>
-The infinite possibilities with technology are what draws me to this field. You can build almost anything you fancy!
-<br><br>
-It all started back in secondary school when I tried making an Android live wallpaper. I realized then how much fun it was not only to learn something new but also to bring what you have in your head to life.
-<br><br>
-I'm here to help you learn and to aid you in your first steps to creating something amazing. But I'm also here to play, so if you're up for some games, let me know!
+Description 
+
+
+goes 
+<br>
+
+here. 
+
+.
+<br>
+.
+<br>
+.
 
 <a href="https://www.linkedin.com/in/roman-akash-b32a29170/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="http://romanakash.com/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
 <br>
 <br>
@@ -86,24 +108,13 @@ When I'm not with EaRs, you can find me in Appleton Tower complaining about my c
 Ivy Kalegi - **Project Lead**
 -------------------------------
 <img class="photo" src="/images/ivy.jpg" alt="Ivy"></img>
-Description goes here
-
- 
-<br>
-<br>
+We are continually forced by great opportunities brilliantly disguised as insoluble problems. This is why engineering and tech. fascinates me. You can find a solution to any problem. I'm particularly interested in robotics and electronics. EaRs is definitely the start on a path to learning a lot about these aspects.
+<br><br>
+Anyway, I'm not just about engineering and tech., on weekday evenings or weekends you can find me in Latino and Afro beats dance sessions, if you would like to have a chat about anything engineering or dance related, contact me at <a href="mailto:ivykalegi@gmail.com">ivykalegi@gmail.com</a>.
  
 <br>
 <br><br>
-<br><br>
-<br><br>
-<br>
  
-
-
-
-
-<a href="https://www.linkedin.com/in/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
-<a href="https://github.com/"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://www.facebook.com/ivy.kalegi"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
 
 
