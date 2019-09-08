@@ -32,6 +32,7 @@ h1, h2 {
 
 #robot-image {
   border-radius: 10px;
+  box-shadow: 2px 2px 1px rgb(53, 53, 58), 3px 3px 2px grey;
   height: 110px;
   width: 110px;
   float: left;
