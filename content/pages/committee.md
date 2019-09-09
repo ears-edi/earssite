@@ -23,20 +23,13 @@ I feel extremely fortunate that I am now in the position to provide this friendl
 Wassim Jabrane - **Secretary**
 -------------------------------
 <img class="photo" src="/images/wassim.jpeg" alt="Wassim"></img>
-Description 
-
-
-goes 
+I always had a small, secret passion that was hidden for embedded electronics and robotics, which I did not discover until my very first year in university when I fiddled with these little bits and bobs using my own hands and laptop. The amount of creativity you can unleash given the knowledge and expertise is… quite shocking. 
 <br>
-
-here. 
-
-.
+Being in the middle of all of this equipment and around spectacular people with one common interest is something I am truly grateful to be part of. Given this opportunity, I am more than happy to support and aid people who have a slight interest in the field learn more about it through our beginner-level workshops and events!
 <br>
-.
-<br>
-.
-<a href="https://uk.linkedin.com/in/cameronjohnmacleod"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+If you have any questions, feel free to ask us on the <a href="ears.edinburgh@gmail.com
+">society email</a>!
+<a href="https://uk.linkedin.com/in/wassim-"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/notexactlyawe"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://www.cameronmacleod.com"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 
@@ -46,20 +39,11 @@ Annabel Jakob  - **Treasurer**
 -------------------------------
 <img class="photo" src="/images/bella.jpeg" alt="Bella"></img>
 Description 
+When I first started university, embedded still seemed like a "distant dream". I didn't really know where to start or where to get materials to start building things, until I joined EaRs. I loved that EaRs isn't just aimed at people who are already confident with these topics, but complete beginners too.
+<br><br>
+Besides that, I love learning about Mathematics and generally any kind of technology. It amazed how much we, as humans, have achieved and have been able to create and I’m determined to understand it all!
 
-
-goes 
-<br>
-
-here. 
-
-.
-<br>
-.
-<br>
-.
-
-<a href="https://linkedin.com/in/mayankgupta0/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://linkedin.com/in/anabelljakob/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/officialgupta"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <a href="https://facebook.com/officialgupta"><img class="icon" src="/theme/images/icons/facebook-s.png" alt="Facebook"></img></a>
 <a href="https://twitter.com/officialgupta"><img class="icon" src="/theme/images/icons/twitter-s.png" alt="Twitter"></img></a>
