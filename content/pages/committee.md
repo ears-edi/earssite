@@ -107,10 +107,10 @@ Anyway, I'm not just about engineering and tech., on weekday evenings or weekend
 Michał Dauenhauer - **Content Creator**
 -------------------------------
 <img class="photo" src="/images/michal.jpg" alt="Michal"></img>
-Description 
 
-
-
+One day, a dozen or so years ago, I found a screwdriver. My family curses that moment, as from then on, any electronic appliance could be found in multiple places at the same time. Some time later I reluctantly admitted that making things work can be as fun as taking them apart. And so began my adventure with robotics and general tinkering.
+<br><br>
+I like questions and usually I can fairly quickly come up with a very long and only marginally relevant answer, so if you're confused about anything, just let me know so that we can be confused together. Maybe something useful will come out of it and maybe it'll be somehow recorded for the future <s>confusion</s> reference.
 
 <a href="https://www.linkedin.com/in/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
