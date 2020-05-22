@@ -79,7 +79,7 @@ Martin Namukombo - **Workshop Co-ordinator**
 
 <br>
 <br>
-Mrinmoy Sonowal - **Workshop Co-ordinator**
+Mrinmoy Sonowal - **Projects Lead**
 -------------------------------
 <img class="photo" src="/images/2020_2021/mrinmoy.jpg" alt="Mrinmoy"></img>
 
