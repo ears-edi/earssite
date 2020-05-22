@@ -121,6 +121,9 @@ article > header {
   border-radius: 5px 5px;
 }
 
+.body > h1 {
+  line-height: 1em;
+}
 
 /* Links */;
 a  { color:#1DAEDF; text-decoration:none; }
