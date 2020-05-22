@@ -40,7 +40,9 @@ ARTICLE_SAVE_AS = "events/{slug}.html"
 
 # Social widget
 SOCIAL = (('Facebook', 'https://fb.me/earsedi'),
-          ('GitHub', 'https://github.com/ears-edi'))
+          ('GitHub', 'https://github.com/ears-edi'),
+          ('LinkedIn','https://www.linkedin.com/company/ears-edi/'),
+          ('Instagram','https://www.instagram.com/earsedinburgh/'))
 
 DEFAULT_PAGINATION = 10
 

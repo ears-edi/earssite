@@ -9,7 +9,7 @@ Auro Varat Patnaik - **President**
 ------------------------------------
 <img class="photo" src="/images/2020_2021/auro.jpg" alt="Auro"></img>
 
-<a href="https://www.instagram.com/aurovarat"><img class="icon" src="/theme/images/icons/instagram.png" alt="Instagram"></img></a>
+<a href="https://www.instagram.com/aurovarat"><img class="icon" src="/theme/images/icons/instagram-s.png" alt="Instagram"></img></a>
 <a href="https://www.linkedin.com/in/auro-p-45192791"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 
 
