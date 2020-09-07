@@ -87,5 +87,7 @@ It has been an enormously fruitful and joyful experience being a part of EaRS si
 
 To say a bit about myself, I am an avid traveler and having been to more than 12 countries in 4 continents I truly enjoy experiencing different cultures. The biodiversity and the majesty of God's creation in these nations truly intrigues me. So, if you are ever wondering what I may be up to for the weekend or the long holidays, I may just be in the coastal town of St. Abbs or hiking the beautiful mountain in the Scottish Highlands.  
 
+<a href="https://www.linkedin.com/in/mrinmoy-sonowal-857566194"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
+<a href="https://github.com/MrinmoySonowal"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
 <br>
 <br>
