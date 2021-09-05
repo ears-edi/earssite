@@ -142,11 +142,9 @@ If you've got any questions drop me a message either on my [personal account](ma
 Cameron MacLeod - **Secretary**
 -------------------------------
 <img class="photo" src="/images/cameron-c.jpg" alt="Cameron"></img>
-I'm often guilty of getting more excited about the technology behind things than the applications themselves, hence my interest lies primarily in the embedded side of the society.
+EaRS was a huge part of my life and identity at university. I'm very proud of all that we accomplished, especially that new people were inspired to join the committee and carry the society on.
 <br><br>
-I took last year out to work for a company that does a lot of embedded development and it was there that I first became interested in the area.
-<br><br>
-I'm often also found tinkering about with DSP and wireless protocols. If you have any issues, I'd love to help, so drop me a line at the [society email](mailto:ears.edinburgh@gmail.com) or my [personal email](mailto:cmacleod170@googlemail.com).
+I'm no longer part of EaRS, but if you want to contact me head to the links below. I'm more than happy to chat about society matters, sponsorship or even careers.
 
 <a href="https://uk.linkedin.com/in/cameronjohnmacleod"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/notexactlyawe"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
