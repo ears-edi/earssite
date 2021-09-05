@@ -1,7 +1,8 @@
 Title: Friends of EaRS
 Slug: friends
 
-# Friends of EaRS
+Friends of EaRS
+======================
 
 <br>
 David Weis - **Robotics Engineer**
