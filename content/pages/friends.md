@@ -18,7 +18,7 @@ If you'd like to look at what I've been up to lately you can try some of these:
 
 <a href="https://www.linkedin.com/in/david-weis/"><img class="icon" src="/theme/images/icons/linkedin-s.png" alt="LinkedIn"></img></a>
 <a href="https://github.com/dmweis"><img class="icon" src="/theme/images/icons/github-s.png" alt="Github"></img></a>
-<a href="http://davidweis.dev/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
+<a href="https://davidweis.dev/"><img class="icon" src="/theme/images/icons/grid-world.png" alt="Website"></img></a>
 <a href="https://twitter.com/DavidMadeRobots"><img class="icon" src="/theme/images/icons/twitter-s.png" alt="Twitter"></img></a>
 
 <br><br>
